@@ -17,12 +17,12 @@ Add it to the html like any other javascript file using link tag.
 # How to use
 
 Notifications div uses 4 types of bootstrap classes <i> success,info,danger,warning </i> and extra class for displaying mails.
-
-success - green with tick mark
-danger - red with cross mark
-warning - orange with warning symbol
-info - blue with info icon
-mail - blue with mail icon
+<br/>
+success - green with tick mark<br/>
+danger - red with cross mark<br/>
+warning - orange with warning symbol<br/>
+info - blue with info icon<br/>
+mail - blue with mail icon<br/>
 
 <h3>Temporary Notification</h3>
 <b>Sample Code</b>
